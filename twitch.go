@@ -1,9 +1,9 @@
 package twitch
 
 import (
-	"github.com/adeithe/go-twitch/api"
-	"github.com/adeithe/go-twitch/irc"
-	"github.com/adeithe/go-twitch/pubsub"
+	"go.philip.id/go-twitch/api"
+	"go.philip.id/go-twitch/irc"
+	"go.philip.id/go-twitch/pubsub"
 )
 
 // API provides tools for developing integrations with Twitch.

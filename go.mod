@@ -1,4 +1,4 @@
-module github.com/adeithe/go-twitch
+module go.philip.id/go-twitch
 
 go 1.18
 

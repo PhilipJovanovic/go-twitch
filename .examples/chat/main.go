@@ -7,8 +7,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/adeithe/go-twitch"
-	"github.com/adeithe/go-twitch/irc"
+	"go.philip.id/go-twitch"
+	"go.philip.id/go-twitch/irc"
 )
 
 func main() {
